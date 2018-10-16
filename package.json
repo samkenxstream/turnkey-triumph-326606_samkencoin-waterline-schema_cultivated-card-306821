@@ -12,7 +12,7 @@
     "lodash": "~3.10.0"
   },
   "devDependencies": {
-    "mocha": "1.9.x"
+    "mocha": "3.3.0"
   },
   "keywords": [
     "mvc",
